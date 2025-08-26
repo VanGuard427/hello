@@ -11,7 +11,7 @@
 * 파이썬
 * 리눅스
 
-[!Gitbub](/images/github.png)
+[Gitbub](/images/github.png)
 
 통신에서 **보안**은 필수적인 요소입니다.
 
