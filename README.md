@@ -54,7 +54,7 @@ function messagebox(msg) {
 ### 이모지(emoji)
 :+1:참 잘했어요!!!
 
-:+cold_face:
+:cold_face:
 
 
 
